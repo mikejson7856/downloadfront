@@ -1,6 +1,7 @@
 
 
 import Home from "@/app/components/Home";
+import { API_URL, site } from "@/app/config";
 
 import { headers } from 'next/headers'
 
